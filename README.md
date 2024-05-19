@@ -1,6 +1,6 @@
 # Book_Reading_FlutterApp
 
-A new Flutter project.
+3 screens made by flutter of a book reading app.
 
 ## Getting Started
 
